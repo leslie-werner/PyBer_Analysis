@@ -11,6 +11,7 @@ Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt) -->
 
 ## Overview
+### Purpose
 The purpose of this analysis was to create visualizations data for PyBer a ride-sharing service. It was requested that ride-sharing data by city type was to be used for this analysis. A line graph was used to analyze the data by weeks. We will be addressing any disparities among the city types and three busiess recommendations.
 ## Results
 In the ride-sharing data, we can see that although Rural is the most expensive per ride and driver, it has the least amount of total fares. In figure one, we can see the disparaties of each city type. In figure two, a line graph is used for the visualization of this analysis.
@@ -34,7 +35,7 @@ Figure 2. Line graph showing analysis of PyBer data.
 
 ## Summary
 Looking at the results that were obtained in this analysis, we can see that there is a great difference between users from rural and urban city types. In order for more users to use PyBer in rural city types, we have developed three buisness ideas to help imporve access in these communities.
-   
+ ### Buisness Recommendations 
    1.) PyBer needs to create incentives to be able to reach crowds in rural city types. We can do this by offering discounts for new users. This will encourage people to sign up from rural areas and realize the convenience of PyBer. 
    
    2.) Reward loyal customers. Rewarding loyal customers will influence them to keep on using a service. This will not only help rural customers to use the service more frequently but also increase the use of PyBer in all city types. 
